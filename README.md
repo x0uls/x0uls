@@ -11,7 +11,7 @@ I'm a **PHP Developer** focused on building clean, efficient, and secure backend
 * **Tools:** Git
 
 ### **What I'm up to**
-* 🔭 Currently working on optimizing backend performance for high-traffic applications.
+* 🔭 Currently working on optimizing backend performance.
 * 📚 Constantly refining my knowledge of secure software development.
 
 ### **Fun Facts**
