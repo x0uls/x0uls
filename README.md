@@ -16,10 +16,9 @@ I'm a **PHP Developer** focused on building clean, efficient, and secure backend
 
 ### **Fun Facts**
 * ☕ Powered by strong coffee and clean code.
-* 🛠️ If I'm not coding, I'm probably breaking something just to see how to fix it.
-* 🎮 Passionate about [Gaming and Coding].
+* 🎮 Passionate about Gaming and Coding.
 
 ---
 
 ### **How to reach me**
-* **LinkedIn:** [https://www.linkedin.com/in/kennykoh1027/]
+* **LinkedIn:** https://www.linkedin.com/in/kennykoh1027/
