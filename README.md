@@ -18,7 +18,7 @@ I'm a **PHP Developer** focused on building clean, efficient, and secure backend
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### **What I'm up to**
-* 🔭 Currently working on optimizing backend performance and building Python-based automation scripts.
+* 🔭 Currently working on optimizing backend performance and building Python-based automation/macro scripts.
 * 📚 Constantly refining my knowledge of secure software development and modern CSS architectures with Tailwind.
 
 ### **Fun Facts**
