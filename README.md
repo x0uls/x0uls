@@ -7,8 +7,6 @@ I am a **PHP Developer** dedicated to building clean, efficient, and secure back
 
 ### 🔭 What am I currently working on?
 - 🚀 Optimizing backend performance for **PHP/Laravel** applications.
-- 🔐 Implementing advanced authentication and authorization patterns.
-- 🏗️ Exploring microservices architecture and API design.
 
 ---
 
@@ -26,8 +24,3 @@ I am a **PHP Developer** dedicated to building clean, efficient, and secure back
 
 ### 📬 How to reach me?
 - 💼 [LinkedIn](https://www.linkedin.com/in/kennykoh1027/)
-
----
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=x0uls&show_icons=true&theme=tokyonight)
