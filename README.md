@@ -1,27 +1,25 @@
-# Hi there, I'm Kenny 👋
+# Hey there, I'm Kenny! 👋
 
-### 👨‍💻 Who am I?
-I am a **PHP Developer** dedicated to building clean, efficient, and secure backend systems. I enjoy solving complex logic puzzles and ensuring that every application I build is robust and scalable.
-
----
-
-### 🔭 What am I currently working on?
-- 🚀 Optimizing backend performance for **PHP/Laravel** applications.
+I'm a **PHP Developer** focused on building clean, efficient, and secure backend systems. I design and build robust applications with a focus on scalable logic and secure coding practices.
 
 ---
 
-### 🛠️ What tools do I use?
+### **Core Development**
+* **Languages:** PHP
+* **Frameworks:** Laravel, Symfony
+* **Databases:** MySQL
+* **Tools:** Git
 
-**Core Development**
-<br>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-<br>![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-<br>![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+### **What I'm up to**
+* 🔭 Currently working on optimizing backend performance for high-traffic applications.
+* 📚 Constantly refining my knowledge of secure software development.
 
-
-**Database**
-<br>![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### **Fun Facts**
+* ☕ Powered by strong coffee and clean code.
+* 🛠️ If I'm not coding, I'm probably breaking something just to see how to fix it.
+* 🎮 Passionate about [Gaming and Coding].
 
 ---
 
-### 📬 How to reach me?
-- 💼 [LinkedIn](https://www.linkedin.com/in/kennykoh1027/)
+### **How to reach me**
+* **LinkedIn:** [https://www.linkedin.com/in/kennykoh1027/]
