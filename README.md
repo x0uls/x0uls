@@ -12,12 +12,13 @@ I am a **PHP Developer** dedicated to building clean, efficient, and secure back
 
 ### 🛠️ What tools do I use?
 
-**<u>Core Development</u>**
+**Core Development**
 <br>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 <br>![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
-**<u>Database</u>**
+
+**Database**
 <br>![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
