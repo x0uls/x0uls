@@ -1,6 +1,6 @@
 # Hey there, I'm Kenny! 👋
 
-I'm a **PHP Developer** focused on building clean, efficient, and secure backend systems. I design and build robust applications with a focus on scalable logic and secure coding practices.
+I'm a **PHP Web Developer** focused on building clean, efficient, and secure backend systems. I design and build robust applications with a focus on scalable logic and secure coding practices.
 
 ---
 
