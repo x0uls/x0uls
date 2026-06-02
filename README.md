@@ -13,11 +13,12 @@ I'm an **Information Security Student** and **Former PHP Web Developer Intern**.
 ### **Technical Stack**
 * **Languages & Frameworks:** <br>
   [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net/) 
-  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/) 
+  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
   [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 * **Operating Systems & Infra:** <br>
   [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+  [![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
   [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 * **Tools:** <br>
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
