@@ -9,6 +9,8 @@ I'm an **Information Security Student** and **Former PHP Web Developer Intern**.
 * **Certifications & Training:** 
   * CompTIA Security+ (In Progress)
   * Cisco CCNA: Introduction to Networks
+  * Cisco: Introduction to Cybersecurity
+  * Fortinet Certicied Fundamentals
 
 ### **Technical Stack**
 * **Languages & Frameworks:** <br>
